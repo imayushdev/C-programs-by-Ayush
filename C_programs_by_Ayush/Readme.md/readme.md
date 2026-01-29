@@ -34,7 +34,7 @@ Welcome to **C_Programs_By_Ayush** — a curated collection of beginner-to-inter
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 1. **Clone or download this repository.**
 2. Open any `.c` file in your preferred C IDE or editor (e.g., VSCode).
@@ -43,7 +43,7 @@ Welcome to **C_Programs_By_Ayush** — a curated collection of beginner-to-inter
 
 ---
 
-## 👦 Author
+## Author
 
 **Ayush**
 
@@ -55,7 +55,7 @@ Feel free to fork this repo, improve the documentation, or add new programs — 
 
 ---
 
-## 📚 License
+##  License
 
 This repository is for educational purposes.
 
